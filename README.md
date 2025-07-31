@@ -1,2 +1,2 @@
-# Fire-detection-
-🚒 YOLOv8-based real-time fire🔥 detection for smarter, safer monitoring. 
+# fire-detection
+🔥 Real-time fire detection using YOLOv8 🚒📸 for accurate image-based fire recognition with Python.
