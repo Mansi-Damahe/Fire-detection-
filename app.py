@@ -1,4 +1,4 @@
-import streamlit as st
+mport streamlit as st
 from ultralytics import YOLO
 import cv2
 import time
@@ -58,4 +58,5 @@ if start_button:
             st.success("Detection stopped.")
             break
 
-        time.sleep(0.03)  # Add a small delay to manage resource usage
+        time.sleep(0.03)  # Add a small delay to manage resource usage                                                  i wnat code to add this in my stream lit
+
